@@ -16,10 +16,43 @@ My ideal team environment is friendly, focused and hard working; it values clean
 
 *Software Engineer*
 
-- CorResilience (CorLife)
-- TAB
-- QBytes
-- Biomark
+* CorResilience (CorLife) - Hybrid mobile App
+
+    * Delivered a successful hybrid mobile application for a client in the health and medical industry.
+    * Autonomous SCRUM Team delivering functioning software for demonstration and review in increments of one and two week sprints.
+    * Learned the Ionic framework and delivered the front end of the mobile application for both iOS and Android devices.
+    * Created a custom desktop, back office Angular application for user and medical information management.
+    * Implemented push notification services for iOS and Android.
+    * Became the company expert for managing Apple App Store profiles and certificates, managing all mobile deployments to our UAT and Production users.
+    * Adopted and wrote new features for a legacy backend service built in Node.js and Express that integrated with the FitBit web api and user information.
+    * Took the legacy Node.js Service from zero test coverage to 60% coverage and a minimum of 80% test coverage on all new features with using Mocha, Chai and Sinon.
+    * Additionally I took on the role of Scrum master, driving the team forward, sticking to the sprint priority and striving for continuous improvement.
+    * I lead sprint retrospectives and planning sessions, developing us into a high performing team.
+    
+> Typescript, Javascript
+> Ionic 3, Angular 5 -> 8    
+> Node.js, Express    
+> Java 8, Spring    
+> AWS, S3 bucket, Mongo DB  
+> Docker    
+> Mocha, Chai and Sinon
+
+* TAB - Hybrid mobile app and web application
+> Apache Cordova, Angular 6 -> 8    
+> AWS Lambda, Amazon Cognito    
+> Docker    
+
+* QBytes - Hybrid Mobile App
+> Typescript, Javascript    
+> Ionic 4, Angular 6 -> 9    
+> Node.js, Nest.js    
+> Docker    
+> In App Purchases  
+
+* Biomark - Mobile App Frontend
+> Typescript, Javascript    
+> Ionic 4, Angular 6 -> 9    
+> JS MockServer library
 
 **Creative Code** (January 2018 - present)
 
@@ -127,16 +160,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - (ICT) Business & Communications:			A
 - Geography:					                  C
 
-
-
 ## Interests
 
 - Technology
 - Music and playing the guitar
-- Cycling
-- Reading
 
 ## <a name="#contact">Contact</a>
 
 - <a href="https://github.com/DSeanGray">Github</a>
-- <a href="https://www.codewars.com/users/dvidgry">Codewars</a>
+- <a href="https://www.linkedin.com/in/davidseangray/">Linkedin</a>
+- <a href="https://www.codewars.com/users/dvidgry">CodeWars</a>
+- <a href="davidseangray@gmail.com">Email me</a>
